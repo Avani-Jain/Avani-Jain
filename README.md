@@ -12,12 +12,15 @@ Here are some ideas to get you started:
 - Profile views: ![](https://komarev.com/ghpvc/?username=Avani-Jain)
 
 
-### Languages and Tools:
+### Languages and Tools Known:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=3)](https://skillicons.dev)
 
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=3]" />
+  </a>
+</p>
 ---
 
 
