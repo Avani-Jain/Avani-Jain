@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=5)](https://skillicons.dev)
