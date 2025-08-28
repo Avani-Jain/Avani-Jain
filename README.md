@@ -6,14 +6,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:avanij611gmail.com) 
 - Profile views: ![](https://komarev.com/ghpvc/?username=Avani-Jain)
 
-<h2>📊 Github Stats</h2>
-
-![Avani Jain github stats](https://github-readme-stats.vercel.app/api?username=Avani-Jain&theme=onedark)
-
-<br>
-
-<br />
-
 
 ### Languages and Tools Known:
 
