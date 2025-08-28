@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
-<p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=5)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=5)](https://skillicons.dev)
 
 
 
