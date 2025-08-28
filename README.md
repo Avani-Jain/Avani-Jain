@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring, python, mysql, html, css, react, git, github, jira, hibernate, js, nodejs,figma&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,react,git,github,hibernate,js,nodejs,figma&perline=5)](https://skillicons.dev)
 </p>
 
 
