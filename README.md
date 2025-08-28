@@ -2,13 +2,10 @@
 
 
 <p align="center">
-<img width="400" height="400" alt="image" style='border:2px solid #000000' src="https://github.com/user-attachments/assets/f2f948fd-26db-47ac-a423-f4ab68240a41" />
+<img width="400" height="400" alt="image" border= "5" src="https://github.com/user-attachments/assets/f2f948fd-26db-47ac-a423-f4ab68240a41" />
 </p>
-<!--
-**Avani-Jain/Avani-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on a Springboot project which is an E-Commerce Application that uses Springboot for backend operations and React for frontend operations. 
 - 👯 I’m looking to collaborate on Java projects. 
 - 📫 How to reach me: [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avani-jain-6n1/),
