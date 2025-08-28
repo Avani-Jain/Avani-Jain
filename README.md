@@ -1,5 +1,9 @@
 ## Hi there 👋, I am Avani Jain!!
 
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f2f948fd-26db-47ac-a423-f4ab68240a41" />
+
 <!--
 **Avani-Jain/Avani-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
