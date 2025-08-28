@@ -1,9 +1,8 @@
 ## Hi there 👋, I am Avani Jain!!
 
 
-<p align="center">
 <img width="400" height="400" alt="image" border= "5" src="https://github.com/user-attachments/assets/f2f948fd-26db-47ac-a423-f4ab68240a41" />
-</p>
+
 
 
 - 🔭 I’m currently working on a Springboot project which is an E-Commerce Application that uses Springboot for backend operations and React for frontend operations. 
