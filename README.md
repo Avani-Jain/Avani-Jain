@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Avani Jain!!
 
-- 🔭 I’m currently working on a Springboot project which is an E-Commerce Application that uses Springboot for backend operations and React for frontend operations. 
+- 🔭 I’m currently working on a Banking API which is a REST API being developed using Spring Boot, Spring Data JPA and the Controller-Service-Repository architecture. Apart from this, I have worked on Spring Boot projects in work environment in my current role. 
 - 👯 I’m looking to collaborate on Java projects. 
 - 📫 How to reach me: [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avani-jain-6n1/),
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:avanij611gmail.com) 
